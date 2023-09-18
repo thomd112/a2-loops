@@ -12,6 +12,8 @@ const squares = (initialWidth, n) => {
     width= width*0.75;
     color = 
 
+    $colourChange
+
 
 
 
