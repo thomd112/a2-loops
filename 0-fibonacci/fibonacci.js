@@ -8,12 +8,14 @@ const fibonacci = (n) => {
   }
 
   fibonacci.push (Newnumber);
-  Fn = F(n-1) + F(n-2)
+  //Fn = F(n-1) + F(n-2)
   
   return fn;
 }
 // End your code
 
-export { fibonacci };
-const n = 7;
+export {fibonacci};
 console.log = fibonacci;
+const n = 7;
+
+
