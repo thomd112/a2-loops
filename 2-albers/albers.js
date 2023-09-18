@@ -10,7 +10,7 @@ const squares = (initialWidth, n) => {
   for (let i = 1; i <= n; i++) {
 
     width= width*0.75;
-    
+    color = 
 
 
 
