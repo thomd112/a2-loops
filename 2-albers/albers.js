@@ -16,8 +16,6 @@ const squares = (initialWidth, n) => {
 
 
 
-
-
   return {
     'width': width,
     'color': color,
